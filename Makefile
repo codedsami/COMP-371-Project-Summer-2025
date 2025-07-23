@@ -5,7 +5,7 @@ CPP=c++
 BIN_NAME=flight-and-fight
 INCLUDE=-Iinclude
 FLAGS=$(INCLUDE) -std=c++17 -O2
-LD_FLAGS=-lglfw3
+LD_FLAGS=-lglfw
 
 ifeq ($(OS), Windows_NT)
 	LD_FLAGS+=-lOpenAL32
