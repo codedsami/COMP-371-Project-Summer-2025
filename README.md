@@ -53,8 +53,6 @@ openal-soft, GLFW, and glm are provided as submodules that you can clone using
 should you need them. If it's possible you can also install them through a
 package manager if they are available for your distro.
 
-For detailed instructions on running the game, please see the [RUN.MD](RUN.MD) file.
-
 Linux:
 
 ```
@@ -70,12 +68,11 @@ Use [mingw-w64](https://sourceforge.net/projects/mingw-w64) to compile:
 mingw32-make -j$(nproc)
 .\flightsim.exe
 ```
-Linux:
-
 
 ## Credits
 
 for a full list of all the 3rd party assets used, go to `assets/credits.txt`.
+
 
 ## TO RUN
 
