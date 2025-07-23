@@ -72,3 +72,8 @@ mingw32-make -j$(nproc)
 ## Credits
 
 for a full list of all the 3rd party assets used, go to `assets/credits.txt`.
+
+
+## TO RUN
+
+Please see the [RUN.MD](./RUN.MD) file for detailed instructions on how to run the game.
